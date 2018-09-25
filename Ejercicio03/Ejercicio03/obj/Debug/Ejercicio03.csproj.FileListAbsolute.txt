@@ -1,0 +1,6 @@
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.exe
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.pdb
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.exe
+E:\Estructura de Datos\ExamenU1\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.pdb
