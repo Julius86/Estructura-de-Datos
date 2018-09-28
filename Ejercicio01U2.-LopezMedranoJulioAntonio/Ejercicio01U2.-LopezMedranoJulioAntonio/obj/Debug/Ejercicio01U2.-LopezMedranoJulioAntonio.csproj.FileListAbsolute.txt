@@ -1,0 +1,6 @@
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\bin\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.exe.config
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\bin\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.exe
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\bin\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.pdb
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\obj\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.csprojResolveAssemblyReference.cache
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\obj\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.exe
+E:\Estructura de Datos\Unidad 2\Ejercicio01U2.-LopezMedranoJulioAntonio\Ejercicio01U2.-LopezMedranoJulioAntonio\obj\Debug\Ejercicio01U2.-LopezMedranoJulioAntonio.pdb
